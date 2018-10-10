@@ -1,0 +1,15 @@
+#pub {
+    height: 100px;
+    width: 100%;
+}
+#main {
+    background-color: rebeccapurple;
+}
+body {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+h1,h2 {
+    font-family: 'Bai Jamjuree', sans-serif;
+    color: white;
+}
